@@ -27,4 +27,5 @@ h2, .full-width-borders {
   border-right: 600rem solid maroon;
   color: white;
   font-size: 1.125rem;
+  overflow-x:hidden
 }
