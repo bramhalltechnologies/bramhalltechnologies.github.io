@@ -1,6 +1,6 @@
 HTML CSS Result Skip Results Iframe
 /* on both */
-html, body {
+html, body, section, h2, .full-width-borders{
   overflow-x: hidden;
   position: fixed;
 }
