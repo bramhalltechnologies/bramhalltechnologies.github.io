@@ -1,12 +1,11 @@
 HTML CSS Result Skip Results Iframe
 /* on both */
-html, body, section, h2, .full-width-borders{
+html, body{
   overflow-x: hidden;
   position: fixed;
 }
 body {
   background: #ffffff;
-  position: absolute; 
 }
 section {
   box-sizing: border-box; /* or not */
@@ -16,8 +15,6 @@ section {
   padding: 1.5rem;
   padding-bottom: 4rem;
   overflow: hidden;
-  position: fixed;
-  position: absolute; 
 }
 h2, .full-width-borders {
   /* add in section padding (1.5rem) */
@@ -32,5 +29,4 @@ h2, .full-width-borders {
   border-right: 600rem solid maroon;
   color: white;
   font-size: 1.125rem;
-
 }
