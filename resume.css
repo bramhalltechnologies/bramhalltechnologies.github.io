@@ -1,8 +1,7 @@
 HTML CSS Result Skip Results Iframe
 /* on both */
-html, body{
+html, body {
   overflow-x: hidden;
-  position: fixed;
 }
 body {
   background: #ffffff;
@@ -14,7 +13,6 @@ section {
   background: white;
   padding: 1.5rem;
   padding-bottom: 4rem;
-  overflow: hidden;
 }
 h2, .full-width-borders {
   /* add in section padding (1.5rem) */
