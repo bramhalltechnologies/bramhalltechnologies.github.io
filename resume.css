@@ -5,6 +5,7 @@ html, body {
 }
 body {
   background: #ffffff;
+  position: relative
 }
 section {
   box-sizing: border-box;
