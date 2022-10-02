@@ -1,7 +1,11 @@
 HTML CSS Result Skip Results Iframe
 /* on both */
+
+#div-1 { overflow-x: hidden; }
+
 html, body {
   overflow-x: hidden;
+  width: 100%;
 }
 body {
   background: #ffffff;
