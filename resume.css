@@ -23,8 +23,8 @@ h2, .full-width-borders {
   /* border solid, not RGBa (Safari bug) */
   /* 9600px or 10240px to avoid Chrome bug */
   /* or equivalent in ems or rems (9600/16) */
-  border-left: 600rem solid maroon;
-  border-right: 600rem solid maroon;
+  border-left: 600rem solid rgba(128, 0, 0, 0);
+  border-right: 600rem solid rgba(128, 0, 0, 0);
   color: white;
   font-size: 1.125rem;
 }
