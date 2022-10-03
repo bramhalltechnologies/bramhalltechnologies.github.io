@@ -1,17 +1,7 @@
 html, body{
-  height: 100%;
   font-family: 'Avenir', sans-serif; 
   color: #33475b;  
   background-color: blanchedalmond;
-}
-html{
-  display: table;
-  margin: auto;
-}
-h1{
-  padding-top: 30px;
-  display: table-cell;
-  vertical-align: top middle;
 }
 
 .button {
