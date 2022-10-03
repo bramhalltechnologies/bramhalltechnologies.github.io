@@ -9,17 +9,26 @@ html{
   margin: auto;
 }
 h1{
+  padding-left: 8px;
   padding-top: 30px;
   display: table-cell;
   vertical-align: top middle;
 }
-
+.ing{
+  padding-left: 12px;
+  padding-top: 8px;
+  margin-bottom: -10px;
+}
+p{
+  margin-right: 5%;
+  margin-left: 1%;
+}
 .button {
   margin-top: -12px;
   background-color: maroon;
   border: none;
   color: blanchedalmond;
-  padding: 12px 30.5px;
+  padding: 12px 32.5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;

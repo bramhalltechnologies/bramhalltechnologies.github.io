@@ -7,11 +7,13 @@ html, body {
   overflow-x: hidden;
   width: 95%;
   margin-left: 5px;
-  background-color: bisque;
+  background-color: blanchedalmond;
+  font-family: 'Avenir', sans-serif; 
+  color: #33475b;  
 }
 
 body {
-  background-color: bisque;
+  background-color: blanchedalmond;
   position: relative
 }
 
@@ -19,7 +21,7 @@ section {
   box-sizing: border-box;
   margin: 2px;
   width: 25rem;
-  background: bisque;
+  background: blanchedalmond;
   padding: 1.5rem;
   padding-bottom: 4rem;
 }
